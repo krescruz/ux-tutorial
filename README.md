@@ -17,4 +17,5 @@ Tutoriales en español sobre UX
 
 ## <a name=''>Video tutoriales</a>
 
-[Aprende a crear Wireframes para moviles con NinjaMock](https://www.youtube.com/watch?v=sJ4Ba83Hxfk)
+1. [Aprende a crear Wireframes para moviles con NinjaMock](https://www.youtube.com/watch?v=sJ4Ba83Hxfk)
+2. [Usando minientregables](https://www.youtube.com/watch?v=d5F3ulLvaK8&index=1&list=PLQIlN-pSseCCaxdmQ5oZw1Km1ig2wCs9t)
